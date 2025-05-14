@@ -11,5 +11,12 @@ p {
     background-color: aqua;
 }
 #sidenote {
-    background-color: ghostwhite ;
+    background-color: ghostwhite;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
 }
