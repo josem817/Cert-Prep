@@ -1,21 +1,3 @@
 body {
     font-family:'segoe UI',Tahoma, sans-serif;
-    background-color:dimgrey;
-}
-p {
-    color: navy;
-}
-a {
-    text-decoration:none;
-}
-a:hover {
-    text-decoration:underline;
-    font-weight:bold;
-}
-.sale {
-    font-weight:bold;
-    background-color:aqua;
-}
-#sidenote {
-    background-color:#dbd9d9;
 }
