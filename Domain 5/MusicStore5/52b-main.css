@@ -1,33 +1,39 @@
 ﻿body {
-    font-family:'Segoe UI', Tahoma, sans-serif;
-    background-color: #f7d2aa
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    background-color: #f7d2aa;
 }
+
 p {
     color: navy;
 }
 
 /* The background color is extending across the page,
     so I have commented it out for now. */
-h1,h2,h3,h4,h5,h6 {
-    font-family:Helvetica,Arial,sans-serif;
+h1, h2, h3, h4, h5, h6 {
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 figcaption {
     font-weight: bold;
     background-color: #AAEEFF;
-    display:inline;
+    display: inline;
+    color: #032f0d; /* Step 2: Added dark green text */
 }
+
 .sale {
     font-weight: bold;
     background-color: #AAEEFF;
 }
+
 #sidenote {
     background-color: #DDDDDD;
-    display:inline;
+    display: inline;
 }
+
 a {
     text-decoration: none;
 }
+
 a:hover {
     text-decoration: underline;
     font-weight: bold;
