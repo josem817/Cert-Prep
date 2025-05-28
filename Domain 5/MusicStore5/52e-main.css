@@ -21,11 +21,11 @@ figcaption {
 .sale {
     background-color: #AAEEFF;
     font-style:italic;
-    font-weight:bold;
 }
 #sidenote {
     background-color: #DDDDDD;
     display:inline;
+    font-weight:bold;
 }
 a {
     text-decoration: none;
